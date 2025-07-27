@@ -1,0 +1,5 @@
+outs:
+- md5: 07033b0fa72840b173e2376421de5977
+  size: 3892
+  hash: md5
+  path: tourpulseai_hotels.csv
